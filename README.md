@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaraSchulze
-- 👀 I’m interested in Programming, especially ML and AI
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning C and C++
 
 <!---
