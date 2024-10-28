@@ -1,4 +1,4 @@
-👋 # Hi, I’m Mara
+#👋  Hi, I’m Mara
 
 🚀 Passionate Pythonista and loving Linux
 
