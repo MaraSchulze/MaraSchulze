@@ -6,7 +6,7 @@
 
 ### 🔧 Technologies & Tools
 - Main Languages: C, Python
-- With smatterings of: C++, Java, Javascript, Assembler
+- With smatterings of: ✨C++, ✨Java, ✨Javascript, ✨Assembler
 - Tools: Git, Docker, Linux
   
 
