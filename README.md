@@ -5,9 +5,10 @@
 👀 I want to break in as a junior programmer.
 
 ### 🔧 Technologies & Tools
-- Main Languages: C, Python
-- With smatterings of: ✨C++, ✨Java, ✨Javascript, ✨Assembler
+- Main Languages: C, Python, TypeScript
+- With smatterings of: ✨C++, ✨Assembler
 - Tools: Git, Docker, Linux
+- TechStack: PostgreSQL, Drizzle ORM
   
 
 
