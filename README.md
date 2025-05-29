@@ -1,14 +1,12 @@
 # 👋  Hi, I’m Mara
 
-🚀 Passionate Pythonista and loving Linux
-
-👀 I want to break in as a junior programmer.
+🚀 Passionate Programmer and loving Linux
 
 ### 🔧 Technologies & Tools
 - Main Languages: C, Python, TypeScript
 - With smatterings of: ✨C++, ✨Assembler
 - Tools: Git, Docker, Linux
-- TechStack: PostgreSQL, Drizzle ORM
+- TechStack: React, PostgreSQL, Drizzle ORM, Fastify
   
 
 
